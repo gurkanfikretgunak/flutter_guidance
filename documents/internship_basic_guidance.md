@@ -1,4 +1,4 @@
-# Intership Basic Guidance v0.1.0
+# Internship Basic Guidance v0.1.0
 
 ## Intern Information
 
@@ -76,7 +76,7 @@ Feel free to reach out to John through their GitHub, LinkedIn, or Twitter accoun
 
 Please provide the information regarding the tools, configurations, and other preferences used by the intern during the project development process. This checklist will help monitor the intern's contributions to the project and the technologies they utilized.
 
-### Intership Program Flow
+### Internship Program Flow
 
 **Week 1-2: Introduction to Flutter and Dart**
 During the first two weeks of the six-week internship program, participants will dive into the world of Flutter and Dart. They will learn the fundamentals of Flutter app development and Dart programming language. The focus will be on understanding Flutter's widget system, creating UI designs, and implementing basic state management. By the end of this phase, stajyers will have built their first simple Flutter app.
