@@ -1,4 +1,4 @@
-# Semantic Commit Guide
+# Semantic Commit Guidance
 
 This guide provides definitions and examples of semantic commits that you can use in your project. Each commit type should use a semantic label and description structure. This will facilitate collaboration among team members and improve the maintainability and comprehensibility of the project.
 
