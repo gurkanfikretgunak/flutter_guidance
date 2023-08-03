@@ -1,9 +1,9 @@
 
-# Flutter MVVM Guide
+# Flutter MVVM Guidance
 
 ## Introduction
 
-MVVM (Model-View-ViewModel) is a design pattern that organizes the logical structure of software applications. MVVM consists of three main components: Model, View, and ViewModel. In this guide, we will explore how to implement MVVM architecture in Flutter and provide 10 example use cases.
+MVVM (Model-View-ViewModel) is a design pattern that organizes the logical structure of software applications. MVVM consists of three main components: Model, View, and ViewModel. In this guidance, we will explore how to implement MVVM architecture in Flutter and provide 10 example use cases.
 
 ## 1. What is Model?
 
